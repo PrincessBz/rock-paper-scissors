@@ -1,0 +1,11 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "Allows the user to play rock, paper, scissors against a computer from the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Princess Bazunu",
+  "license": "MIT"
+}
